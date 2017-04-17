@@ -1,0 +1,23 @@
+{
+  "name": "@journalone/service-foundation",
+  "version": "0.0.0",
+  "description": "Journal One microservice foundation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JournalOne/service-foundation.git"
+  },
+  "author": "Thomas Schorn",
+  "license": "UNLICENCED",
+  "bugs": {
+    "url": "https://github.com/JournalOne/service-foundation/issues"
+  },
+  "homepage": "https://github.com/JournalOne/service-foundation#readme",
+  "dependencies": {
+    "amqplib": "^0.5.1",
+    "rxjs": "^5.3.0"
+  }
+}
